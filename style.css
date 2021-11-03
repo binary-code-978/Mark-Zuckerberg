@@ -64,7 +64,7 @@ h2 {
 
 .menu {
   list-style: none;
-  position: sticky;
+  position: fixed;
   top: 0;
   z-index: 999;
   cursor: pointer;
